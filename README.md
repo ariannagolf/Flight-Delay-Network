@@ -4,3 +4,5 @@ The purpose of our research is to predict the delay ratio (as defined) using pas
 
 # Technology Used
 Python
+pandas
+numpy
